@@ -1,0 +1,2 @@
+# netcore_JwtAuthMinimalApi
+netcore_JwtAuthMinimalApi
