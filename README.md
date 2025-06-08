@@ -15,4 +15,5 @@ How to restrict access to different routes based on the authorization role
 How to access the logged-in user’s information inside the authorized  endpoint
 
 
-This repo is complete sample code from article on https://novrian.substack.com/publish/post/165437816?back=%2Fpublish%2Fposts
+This repo is complete sample code from article on https://open.substack.com/pub/novrian/p/how-to-do-authentication-using-jwt?r=25unco&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
